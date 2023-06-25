@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border-bottom: 1px solid gray;
+}
+
+#searchInput{
+  border: 1px solid gray;
+  background-color: black;
+  width: 20%;
+  padding: 15px;
+  margin: 25px 10px;
+  color: white;
+  border-radius: 10px;
+}
+
+button{
+  border: 1px solid gray;
+  background-color: black;
+  color: white;
+  padding: 15px;
+  margin: 25px 5px;
+  border-radius: 10px;
+}
+
+
+
+.positive-change {
+    color: green!important;
+  }
+  
+  .negative-change {
+    color: red!important;
+  }
+
+  td{
+    padding: 20px ;
+    text-align: left;
+   
+    
+  }
+  #cryptoTable{
+    margin: 0 auto;
+  }
+
+  #data1{
+    padding-right: 0;
+  }
